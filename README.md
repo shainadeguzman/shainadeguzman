@@ -1,6 +1,6 @@
 ## Hello! I'm Shaina welcome to my Github Profile
 
-I'm passionate in buildig websites and web applications, i also love seeing designs and bring them to life.
+I love building the user interface of websites and web applications, i also love seeing designs and bring them to life.
 
 # This is my skills
 - HTML
