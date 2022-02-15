@@ -1,4 +1,4 @@
-## Hello! I'm Shaina welcome to my Github Profile
+## Hello! I'm Shaina welcome to my Github Profile :smile:
 
 I love building the user interface of websites and web applications, i also love seeing designs and bring them to life.
 
